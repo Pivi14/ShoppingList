@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="add_item_button">Add Item</string>
+    <string name="chicken">Chicken</string>
+    <string name="eggs">Eggs</string>
+    <string name="milk">Milk</string>
+    <string name="bread">Bread</string>
+    <string name="flour">Flour</string>
+    <string name="corn">Corn</string>
+    <string name="salami">Salami</string>
+    <string name="yogurt">Yogurt</string>
+    <string name="water">Water</string>
+    <string name="soup">Soup</string>
+    <string name="fish">Fish</string>
+    <string name="cucumber">Cucumber</string>
+    <string name="apple">Apple</string>
+    <string name="pork">Pork</string>
+    <string name="grapes">Grapes</string>
+</resources>
